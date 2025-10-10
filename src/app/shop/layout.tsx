@@ -1,4 +1,5 @@
-// @ts-ignore
+"use client"
+
 import Header from "@/components/Shop/Header";
 
 // @ts-ignore
